@@ -1,3 +1,5 @@
+#开源:基于ConvNet(Theano)的Twitter情感分类
+
 #Twitter Sentiment Analysis using ConvNet
 
 A tool to 
